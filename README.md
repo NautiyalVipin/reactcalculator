@@ -1,3 +1,59 @@
+# Calculator App - ReactJS 🚀
+
+![alt text](/src/images/calc.jpg)
+
+
+## ⭐ Introduction 
+
+This is a Calculator App. Tools used are React, CSS and Javascript. It is a responsive web application.
+
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+
+-  Add, Multiply, Subtract, Divide, Clears, Equals
+-  Add/multiply,subtract/divide can be clubbed together (just like a normal calculator on your phone).
+-  Backspace button clears last character of the input screen.
+-  A toggle button toggle the number from positive to negative and vice-versa.
+
+<br/>
+<br/>
+
+### 🛠️ Tools Used
+
+<p align="justify">
+<img height="140" width="140" src="https://ik.imagekit.io/garbagevalue/garbage/tags/ReactJS_ne_91IZ6n.webp">
+<img height="140" width="140" src="https://user-images.githubusercontent.com/76626529/135654695-ca008e4f-99c8-40fc-9b73-8573f03c2867.png">
+<img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
+<img height="140" width="140" src="https://logodix.com/logo/470309.png">
+<img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+<img height="140" width="140" src="https://code.visualstudio.com/assets/apple-touch-icon.png">
+</p>
+
+
+<br/>
+<br/>
+
+
+-  Packages:
+   -  react
+   -  react-dom
+-  Library: ReactJS
+-  Programming / Scripting: JavaScript
+-  Front-End: HTML, CSS
+-  Runtime Environment: NodeJS
+-  Integrated Development Environment: VSCode
+
+<br/>
+<br/>
+
+
+<br/>
+
+Thank you for your time 😄
+
+<br/>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
