@@ -60,7 +60,7 @@ const Container = (props) => {
               setInput((value) => value.substr(0, value.length - 1))
             }
           >
-            <i class="fa-solid fa-delete-left"></i>
+            <i className="fa-solid fa-delete-left"></i>
           </div>
         );
     // For all the numbers in input array 
